@@ -11,3 +11,6 @@ convertboolean.js
 [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155): 
 descendingorder.js
 
+3. 
+[Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript): 
+exesandohs.js

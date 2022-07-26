@@ -18,3 +18,7 @@ exesandohs.js
 4. 
 [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript): 
 spinningwords.js
+
+5. 
+[Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f): 
+isprime.js

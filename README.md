@@ -14,3 +14,7 @@ descendingorder.js
 3. 
 [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript): 
 exesandohs.js
+
+4. 
+[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript): 
+spinningwords.js

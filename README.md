@@ -34,3 +34,7 @@ validBraces.js
 8.
 [Find Unique](https://www.codewars.com/kata/585d7d5adb20cf33cb000235):
 findUnique.js
+
+9.
+[Pete, the Baker](https://www.codewars.com/kata/525c65e51bf619685c000059):
+theBaker.js

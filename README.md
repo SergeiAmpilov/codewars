@@ -30,3 +30,7 @@ buildTower.js
 7.
 [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56):
 validBraces.js
+
+8.
+[Find Unique](https://www.codewars.com/kata/585d7d5adb20cf33cb000235):
+findUnique.js

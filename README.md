@@ -22,3 +22,7 @@ spinningwords.js
 5. 
 [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f): 
 isprime.js
+
+6. 
+[Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b): 
+buildTower.js

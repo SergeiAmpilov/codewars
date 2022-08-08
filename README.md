@@ -26,3 +26,7 @@ isprime.js
 6. 
 [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b): 
 buildTower.js
+
+7.
+[Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56):
+validBraces.js
